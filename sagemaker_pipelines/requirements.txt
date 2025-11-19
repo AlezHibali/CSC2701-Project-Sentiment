@@ -1,0 +1,7 @@
+boto3
+sagemaker
+pandas
+scikit-learn
+transformers
+datasets
+torch
