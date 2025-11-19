@@ -11,6 +11,8 @@ application** built with:
 
 ------------------------------------------------------------------------
 
+TODO: add screenshots here
+
 ## 📂 Repository Structure
 
     /frontend             # Next.js frontend + API to SageMaker
@@ -71,9 +73,4 @@ pip install -r requirements.yxy
 
 ## ✔️ Summary
 
-  Component                       Tech        Purpose
-  ------------------------------- ----------- -----------------------
-  `frontend/`                     Next.js     UI + API wrapper
-  `sagemaker_pipelines/`          SageMaker   Training + deployment
-  App Runner                      AWS         Hosting frontend
-  SageMaker Serverless Endpoint   AWS         Inference
+TODO: a table to present all steps of MLOps
