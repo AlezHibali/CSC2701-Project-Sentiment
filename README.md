@@ -11,6 +11,7 @@ application** built with:
 
 ------------------------------------------------------------------------
 
+TODO: features
 TODO: add screenshots here
 
 ## 📂 Repository Structure
@@ -34,11 +35,10 @@ The frontend provides:
 ``` bash
 cd frontend
 npm install
-npm run build
-npm run start
+npm run dev
 ```
 
-This opens up a portal at:
+This opens up an interface at:
     http://localhost:3000
 
 ------------------------------------------------------------------------

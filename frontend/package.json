@@ -12,7 +12,8 @@
     "@aws-sdk/client-sagemaker-runtime": "^3.906.0",
     "next": "15.5.4",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "recharts": "^3.5.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
